@@ -24,7 +24,7 @@ name = "ahrs"
 harness = false
 
 [dependencies.nalgebra]
-version = "0.24"
+version = "0.21"
 default-features = false
 
 [dependencies.simba]
